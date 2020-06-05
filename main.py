@@ -12,7 +12,7 @@ import force_computation as fc
 import scipy.io
 
 
-# Number of important snapshots to select
+# Number and type of important snapshots to select
 n = 0
 force_dir = 'L'
 
